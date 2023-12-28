@@ -1,0 +1,131 @@
+.productCard img{
+  height: 200px;
+  width: 200px;
+
+}
+.product .card{
+  margin-top: 20px;
+  border: 1px solid black;
+  padding: 10px;
+  box-shadow: 5px 5px 5px black;
+}
+.cardproduct:hover{
+  transform: rotate(2deg);
+}
+.cartCard .card{
+  border: 4px solid purple;
+  margin-top: 20px;
+
+}
+.carous{
+  margin-top: 5px;
+ 
+  
+}
+.cover{
+  width: 50%;
+  height: 20%;
+}
+.signup {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+.Signup-form {
+  max-width: 400px;
+  width: 100%;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+.quote{
+  font-style: normal;
+  color: rgb(215, 216, 216);
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+.login-form {
+  max-width: 400px;
+  width: 100%;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.caption{
+  color: beige;
+}
+
+
+
+.navb{
+  font-size: large;
+  background-image:url(https://shop.gaatha.com/image/cache/webp/catalog/Anagh-Jewels/13_11_2019/neck-51-845x435.webp);
+  
+  color: rgb(15, 72, 72);
+ display: flex;
+ 
+}
+.cartDetails{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+}
+
+/* Add your CSS styles for the footer here */
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+

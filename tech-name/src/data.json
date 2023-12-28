@@ -1,0 +1,86 @@
+{
+    "jhumkas":[
+        
+            {    "id":"1",
+                "title":"German silver Earing",
+               
+                "image_url":"https://images.cbazaar.com/images/silver-jhumka-earrings-ermkns3780-u.jpg",
+              
+                "price":430,
+                "rate":"4.7"
+            },
+            {      "id":"2",
+                "title":"German silver Earing",
+                "image_url":"https://i.pinimg.com/originals/b0/fe/b6/b0feb6f5e2568215dc3c0dc42ef4f8bb.jpg",
+               
+                "price":450 ,
+                "rate":"4.6"
+                
+            },
+            {    "id":"3",
+                "title":"German silver Earing",
+               
+                "image_url":"https://www.indiansilkhouseagencies.com/product_img/small/STB40-5851-1.jpg",
+               
+                "price":440,
+                "rate":"4.5"
+            },
+            {    "id":"4",
+                "title":"German silver Earing",
+                "image_url":"https://www.sajanabyshagun.com/wp-content/uploads/2022/07/DFB73B4E-0C9E-4900-907E-A964D1329C92-600x800.jpeg",
+               
+                "price":380,
+                "rate":"4.5"
+            },
+            {      "id":"5",
+                "title":"German silver Earing",
+               
+                "image_url":"https://www.sajanabyshagun.com/wp-content/uploads/2022/02/DF1EF5B8-9569-44A7-96C9-5B8B07CAB907-700x933.jpeg",
+               
+                "price":400 ,
+                "rate":"4.5"
+            },
+            {     "id":"6",
+                "title":"German silver Earing",
+                "image_url":"https://i.etsystatic.com/37000205/c/2250/2250/0/644/il/223c6e/4375892957/il_600x600.4375892957_gn6s.jpg",
+                
+                "price":410,
+                "rate":"4.5"
+            },
+            {
+                "id":"7",
+                "title":"German silver Earing",
+                "image_url":"https://5.imimg.com/data5/ANDROID/Default/2023/3/293741195/EZ/LW/ZV/89684394/product-jpeg-500x500.jpg",
+                
+                "price":390,
+                "rate":"4.5"
+            },
+            {   "id":"8",
+                "title":"German silver Earing",
+                "image_url":"https://5.imimg.com/data5/QR/VB/DI/IOS-62637995/product-jpeg-500x500.png",
+               
+                "price":540,
+                "rate":"4.5"
+                
+            },
+            {   "id":"9",
+                "title":"German silver Earing",
+                "image_url":"https://5.imimg.com/data5/ECOM/Default/2022/6/AZ/PO/WX/58869503/psx-20191230-184123-500x500.jpg",
+               
+                "price":310,
+                "rate":"4.5"
+
+            },
+            {   "id":"10",
+                "title":"German silver Earing",
+                "image_url":"https://5.imimg.com/data5/SELLER/Default/2022/6/LQ/CZ/NU/147411118/img-20220606-183947-243-500x500.jpg",
+
+                "price":500,
+                "rate":"4.5"
+               
+            }
+        
+        
+    ]
+   
+}
